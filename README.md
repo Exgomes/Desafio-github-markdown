@@ -2,6 +2,8 @@
 
 ### Neste desafio estamos testando os conhecimentos adquiridos em aula.
 
+#### Aqui está algumas coisas que Aprendemos:
+
 > Aprendemos sobre citações
 
 **Como deixar o texto em negrito** 
