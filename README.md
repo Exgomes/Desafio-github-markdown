@@ -1,4 +1,6 @@
-## Desafio-github-markdown
+## Desafio Markdown
+
+## Aprendendo a usar o markdown
 
 ### Neste desafio estamos testando os conhecimentos adquiridos em aula.
 
